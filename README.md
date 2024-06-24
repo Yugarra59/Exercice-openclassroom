@@ -1,1 +1,1 @@
-Exercice-Openclassroom-JS
+<strong>Exercice-Openclassroom-JS</strong>
